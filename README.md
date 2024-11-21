@@ -1,4 +1,4 @@
-<h1 align=center> Exp - 6 - Matrix multiplication using cuBLAS in CUDA C </h1>
+ Exp - 6 - Matrix multiplication using cuBLAS in CUDA C </h1>
 <h3>NAME: HAREESH R</h3>
 <h3>REGISTER NO: 212223230068</h3>
 <h3>DATE</h3>
